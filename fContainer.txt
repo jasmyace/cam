@@ -1,0 +1,1 @@
+fContainerID	fContainerType	fContainerShort1	1 Gallon Bag	1 Gal Bag2	2 Gallon Bag	2 Gal Bag3	1 Gallon Pail	1 Gal Pail4	2 Gallon Bucket	2 Gal Bucket5	1/2 Pound Box	1/26	1 Pound Box	1 #7	15-ct Cammie Box	158	24-ct Cammie Box	249	4-ct Cammie Box	410	Small Bag	SB
